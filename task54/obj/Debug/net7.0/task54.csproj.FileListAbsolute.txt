@@ -1,0 +1,15 @@
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\bin\Debug\net7.0\task54.exe
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\bin\Debug\net7.0\task54.deps.json
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\bin\Debug\net7.0\task54.runtimeconfig.json
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\bin\Debug\net7.0\task54.dll
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\bin\Debug\net7.0\task54.pdb
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\obj\Debug\net7.0\task54.csproj.AssemblyReference.cache
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\obj\Debug\net7.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\obj\Debug\net7.0\task54.AssemblyInfoInputs.cache
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\obj\Debug\net7.0\task54.AssemblyInfo.cs
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\obj\Debug\net7.0\task54.csproj.CoreCompileInputs.cache
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\obj\Debug\net7.0\task54.dll
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\obj\Debug\net7.0\refint\task54.dll
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\obj\Debug\net7.0\task54.pdb
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\obj\Debug\net7.0\task54.genruntimeconfig.cache
+C:\Users\Максим.DESKTOP-AS03278\Desktop\DZDZ\SEM8\task54\obj\Debug\net7.0\ref\task54.dll
